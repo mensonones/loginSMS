@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="loginSMS/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/loginSMS.iml" filepath="$PROJECT_DIR$/.idea/modules/loginSMS.iml" group="loginSMS" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/404348688/react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/404348688/react-native-firebase_app.iml" group="loginSMS/react-native-firebase_app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-163806995/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-163806995/react-native-gesture-handler.iml" group="loginSMS/react-native-gesture-handler" />
+    </modules>
+  </component>
+</project>
