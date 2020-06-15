@@ -28,6 +28,10 @@ build/
 .gradle
 local.properties
 *.iml
+.keystore
+.DS_Store
+/captures
+google-services.json
 
 # node.js
 #
