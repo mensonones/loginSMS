@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "496336994367",
+    "firebase_url": "https://loginsms-854bf.firebaseio.com",
+    "project_id": "loginsms-854bf",
+    "storage_bucket": "loginsms-854bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496336994367:android:9ecdafe4cfcaf6402cf88a",
+        "android_client_info": {
+          "package_name": "com.loginsms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496336994367-po52mb8o4t2c78oav59h7d3vq5s60ql9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loginsms",
+            "certificate_hash": "3fb7bb7fd015842bb70b16f7c86b0dfac3daa246"
+          }
+        },
+        {
+          "client_id": "496336994367-r7sms1t1gqggveps790aa0l07rd90sf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiqYcsoT4asMRkaue_u1njrZ3bi90K-54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496336994367-r7sms1t1gqggveps790aa0l07rd90sf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

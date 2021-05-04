@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: com.facebook.fbjni:fbjni-java-only:0.0.3@jar">
+  <library name="Gradle: com.facebook.fbjni:fbjni-java-only:0.0.3">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fbjni/fbjni-java-only/0.0.3/c4540aecb99b9ec380acef6c10bb6f700de8ac2c/fbjni-java-only-0.0.3.jar!/" />
     </CLASSES>
